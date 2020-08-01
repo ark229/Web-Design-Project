@@ -1,0 +1,34 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    background-color: azure;
+}
+
+.image-container {
+
+}
+
+.image-container img {
+
+}
+
+#banner {
+    background-image: url('/Users/arnet/OneDrive/Documents/Projects/DevProject/WebDesignProject/pink-sparkles-background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 50rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#banner h1 {
+    font-family: 'indie flower';
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+
+}
